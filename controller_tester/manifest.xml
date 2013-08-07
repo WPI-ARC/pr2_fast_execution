@@ -1,0 +1,18 @@
+<package>
+  <description brief="controller_tester">
+
+     controller_tester
+
+  </description>
+  <author>PR2</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/controller_tester</url>
+  <depend package="roscpp"/>
+  <depend package="pr2_controllers_msgs"/>
+	<depend package="pr2_controllers_msgs" />
+	<depend package="trajectory_msgs" />
+	<depend package="control_msgs"/>
+</package>
+
+
